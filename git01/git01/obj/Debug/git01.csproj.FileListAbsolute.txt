@@ -1,0 +1,11 @@
+D:\develop\study\git01\git01\bin\Debug\git01.exe.config
+D:\develop\study\git01\git01\bin\Debug\git01.exe
+D:\develop\study\git01\git01\bin\Debug\git01.pdb
+D:\develop\study\git01\git01\obj\Debug\git01.csproj.AssemblyReference.cache
+D:\develop\study\git01\git01\obj\Debug\git01.csproj.SuggestedBindingRedirects.cache
+D:\develop\study\git01\git01\obj\Debug\git01.Form1.resources
+D:\develop\study\git01\git01\obj\Debug\git01.Properties.Resources.resources
+D:\develop\study\git01\git01\obj\Debug\git01.csproj.GenerateResource.cache
+D:\develop\study\git01\git01\obj\Debug\git01.csproj.CoreCompileInputs.cache
+D:\develop\study\git01\git01\obj\Debug\git01.exe
+D:\develop\study\git01\git01\obj\Debug\git01.pdb
